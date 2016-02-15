@@ -705,6 +705,15 @@ h2{
   letter-spacing: 1px;
 }
 
+h3{
+  font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	font-size: 15px;
+	color: black;
+	padding-bottom: 2px;
+	text-align: left;
+}
+
 p{
 	padding: 0px;
 	margin: 0px;
@@ -738,4 +747,12 @@ textarea {
 input:focus,
 textarea:focus {
   background-color: #d9d9d9;
+}
+
+/***Impressum***/
+.impressum {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+
 }
